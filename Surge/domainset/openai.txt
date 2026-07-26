@@ -1,0 +1,32 @@
+# Title: OpenAI / ChatGPT DOMAIN-SET Ruleset
+# Updated: 2026-07-26
+# Behavior: DOMAIN-SET (Surge)
+
+# (Core Domains)
+ai.com
+chat.com
+chatgpt.com
+chatgpt.live
+oaistatic.com
+oaiusercontent.com
+openai.com
+sora.com
+
+# ChatGPT  (Voice & Real-time)
+livekit.cloud
+
+# (Auth & Security)
+arkoselabs.com
+auth0.com
+identrust.com
+
+# (Feature Gates, Analytics & Support)
+algolia.net
+featuregates.org
+intercom.io
+intercomcdn.com
+launchdarkly.com
+segment.io
+sentry.io
+statsig.com
+statsigapi.net
