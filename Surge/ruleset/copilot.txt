@@ -1,0 +1,11 @@
+# NAME: Copilot
+# GitHub Copilot
+
+DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,edgeservices.bing.com
+DOMAIN-KEYWORD,githubcopilot
+
+#Microsoft AI service universal dependent domain name
+DOMAIN-SUFFIX,api.githubcopilot.com
+DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com
