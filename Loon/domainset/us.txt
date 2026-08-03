@@ -1,0 +1,32 @@
+# Loon DOMAIN-SET: United States (.us & US Public / Government Services)
+# Description: US Top-Level Domain, .gov, .mil, .edu, and major US public services.
+
+# > US Country Top-Level Domain (cTLD)
+.us
+
+# > US Federal & State Government
+.gov
+.fed.us
+.state.us
+
+# > US Military & Defense
+.mil
+
+# > US Educational System
+.edu
+
+# > US Postal Service & Official Logistics
+.usps.com
+.usps.gov
+
+# > US Weather & Emergency Services
+.noaa.gov
+.weather.gov
+.fema.gov
+
+# > Major US Public & Civic Services
+.usa.gov
+.irs.gov
+.ssa.gov
+.medicare.gov
+.healthcare.gov
