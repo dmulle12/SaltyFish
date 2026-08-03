@@ -1,0 +1,34 @@
+# Loon DOMAIN-SET: Apple
+# Description: Core Apple services, iCloud, App Store, Apple Music, CDN, and Push Notifications.
+
+# > Core Apple & Websites
+.apple.com
+.apple-cloudkit.com
+.apple-dns.net
+.apple-livephotoskit.com
+.apple-mapkit.com
+.appstore.com
+
+# > iCloud & MobileMe
+.icloud.com
+.icloud-content.com
+.me.com
+.mac.com
+
+# > App Store, iTunes & Apple Music
+.itunes.com
+.itunes.apple.com
+.mzstatic.com
+.aaplimg.com
+
+# > Apple Push Notifications (APNs) & Services
+.push.apple.com
+.cdn-apple.com
+.apple-support.com
+.applesafety.com
+
+# > Apple TV, News & Beats
+.apple-news.com
+.beatsbydre.com
+.aiv-cdn.net
+.tv.apple.com
