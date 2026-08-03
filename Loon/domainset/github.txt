@@ -1,0 +1,26 @@
+# Loon DOMAIN-SET: Developer Platforms (GitHub, GitHub Copilot, GitLab)
+# Description: Rules for GitHub core, GitHub Copilot AI, and GitLab endpoints.
+
+# > GitHub Core, Assets & Gists
+.github.com
+.github.io
+.github.net
+.githubusercontent.com
+.githubassets.com
+.ghcr.io
+
+# > GitHub Copilot Services & Telemetry
+.cocopilot.org
+.copilot-proxy.githubusercontent.com
+.individual.githubcopilot.com
+.business.githubcopilot.com
+.enterprise.githubcopilot.com
+.telemetry.githubcopilot.com
+.origin-tracker.githubcopilot.com
+
+# > GitLab Core, CI/CD & Registry
+.gitlab.com
+.gitlab.io
+.gitlab.net
+.gitlab-static.net
+.gitlab-assets.com
