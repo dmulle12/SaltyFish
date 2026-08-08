@@ -1,6 +1,6 @@
 # Name: rules-proxy-usa
 # Updated: 2026-07-21
-# Total: 116
+# Total: 125
 
 DOMAIN-SUFFIX,ada.support
 DOMAIN-SUFFIX,chatgpt.com
@@ -76,6 +76,16 @@ DOMAIN-SUFFIX,withings.net
 DOMAIN-SUFFIX,withings.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,talkatone.com
+DOMAIN-SUFFIX,tktn.at
+DOMAIN-SUFFIX,tktn.be
+DOMAIN-SUFFIX,mobileag.com
+DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,kochava.com
+DOMAIN-SUFFIX,agkn.com
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-KEYWORD,talkatone
 DOMAIN-KEYWORD,-relay
 DOMAIN-KEYWORD,aka.
 DOMAIN-KEYWORD,akamai
