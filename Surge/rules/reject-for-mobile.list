@@ -7,6 +7,7 @@ DOMAIN,analytics.com.us
 DOMAIN,stats.vk-portal.net
 DOMAIN,analytics.google.com
 DOMAIN,analytics.mobile.yandex.net
+DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,admetrica.us
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,analytics.twitter.com
