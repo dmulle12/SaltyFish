@@ -1,0 +1,49 @@
+# Name: reject-for-mobile
+# reject-no-drop
+# Updated: 2026-07-21
+# Total: 44
+
+DOMAIN,analytics.com.us
+DOMAIN,stats.vk-portal.net
+DOMAIN,analytics.google.com
+DOMAIN,analytics.mobile.yandex.net
+DOMAIN-SUFFIX,admetrica.us
+DOMAIN-SUFFIX,ads-twitter.com
+DOMAIN-SUFFIX,analytics.twitter.com
+DOMAIN-SUFFIX,analytics.us.com
+DOMAIN-SUFFIX,app-ads-services.com
+DOMAIN-SUFFIX,app-analytics-services.com
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,appmetrica.yandex.net
+DOMAIN-SUFFIX,appmetrika.yandex.com
+DOMAIN-SUFFIX,appmetrika.yandex.us
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,bugsnag.com
+DOMAIN-SUFFIX,client-analytics.mts.us
+DOMAIN-SUFFIX,clienttracing-pa.googleapis.com
+DOMAIN-SUFFIX,collector.github.com
+DOMAIN-SUFFIX,collector.githubapp.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,crashlyticsreports-pa.googleapis.com
+DOMAIN-SUFFIX,datadoghq.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
+DOMAIN-SUFFIX,getsentry.com
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,mixpanel.com
+DOMAIN-SUFFIX,segment.com
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,sentry.ozon.us
+DOMAIN-SUFFIX,startup.mobile.yandex.net
+DOMAIN-SUFFIX,telemetry.jivosite.com
+DOMAIN-SUFFIX,top-fwz1.mail.us
+DOMAIN-SUFFIX,vkanalytics.net
+DOMAIN-SUFFIX,vk-analytics.us
+DOMAIN-SUFFIX,vkcache.com
+DOMAIN-SUFFIX,vkcdnservice.com
+DOMAIN-SUFFIX,webvisor.com
+DOMAIN-SUFFIX,webvisor.us
+DOMAIN-SUFFIX,xapi.ozon.us
+DOMAIN-SUFFIX,yandex-metrica.us
