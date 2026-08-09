@@ -185,6 +185,10 @@ DOMAIN-SUFFIX,weather-data.apple.com
 DOMAIN-SUFFIX,weather-map.apple.com
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,xunlei.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,facebook.net
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,tiktokcdn.list
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,tiktok
