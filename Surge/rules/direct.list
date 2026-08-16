@@ -1,5 +1,5 @@
 # Name: direct
-# Total: 223
+# Total: 229
 
 DOMAIN,ad.10010.com
 DOMAIN,ain.bgm.tv
@@ -55,6 +55,11 @@ DOMAIN,vd.l.qq.com
 DOMAIN,vi.l.qq.com
 DOMAIN,vip.ffzyread.com
 DOMAIN,vip.imgffzy.com
+DOMAIN,github.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
 DOMAIN-SUFFIX,52pt.site
 DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,acm.org
@@ -190,6 +195,7 @@ DOMAIN-SUFFIX,facebook.net
 DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-SUFFIX,tiktokcdn.list
 DOMAIN-KEYWORD,whatsapp
+DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,tiktok
 DOMAIN-KEYWORD,amp-api.podcasts.apple.com
